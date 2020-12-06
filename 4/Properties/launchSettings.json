@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "4": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\yo\\AoC\\2002\\4\\input.txt"
+    }
+  }
+}
